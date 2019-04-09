@@ -1,0 +1,22 @@
+bump.s:	\
+	/home/ubuntu/basilisk/src/saint-venant.h \
+	/home/ubuntu/basilisk/src/multilayer.h \
+	/home/ubuntu/basilisk/src/predictor-corrector.h \
+	/home/ubuntu/basilisk/src/riemann.h \
+	/home/ubuntu/basilisk/src/elevation.h \
+	/home/ubuntu/basilisk/src/utils.h \
+	/home/ubuntu/basilisk/src/output.h \
+	/home/ubuntu/basilisk/src/grid/quadtree.h \
+	/home/ubuntu/basilisk/src/grid/tree.h \
+	/home/ubuntu/basilisk/src/grid/mempool.h \
+	/home/ubuntu/basilisk/src/grid/foreach_cell.h \
+	/home/ubuntu/basilisk/src/grid/neighbors.h \
+	/home/ubuntu/basilisk/src/grid/tree-common.h \
+	/home/ubuntu/basilisk/src/grid/tree-mpi.h \
+	/home/ubuntu/basilisk/src/grid/balance.h \
+	/home/ubuntu/basilisk/src/grid/multigrid-common.h \
+	/home/ubuntu/basilisk/src/grid/cartesian-common.h \
+	/home/ubuntu/basilisk/src/grid/events.h \
+	/home/ubuntu/basilisk/src/grid/fpe.h \
+	/home/ubuntu/basilisk/src/common.h \
+
